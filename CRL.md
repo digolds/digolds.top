@@ -1,0 +1,2 @@
+# Current State
+During the past 3 years, I successfully learn program skill(mainly on script lan, such as python, matlab). By leveraging the new skill, I can easily build up a ML model to test my idea. This is cool and fantastic. In Digolds.top, you can see a top 10 list, which is drived by Content-base filter Recommendation system. When the data collected by Digolds.top is bigger enough, I will apply deep learning model on that Recommendation. Enjoys!
