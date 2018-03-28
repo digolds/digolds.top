@@ -14,49 +14,29 @@ You can share your knowledge to make Digolds.top better, finally we will list yo
 You can make financial support on Digolds.top development, finally we will list your name or logo on Sponsor board.
 
 Below is the methods you can make financial support:
-<!---
-| Third Party         | Address                   |
-| ------------------- |:---------------------:|
-| ![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/paypal.png)    | [PayMe](https://www.paypal.me/digolds)|
-|||
-|||
-|||
-|![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/btc_logo.png)| 3P4CrB7cCG7iuSRFGsFGfVfHf214w4upuN|
-|||
-|||
-|||
-|![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/btc_logo.png)| ![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/btc.png)|
-|||
-|||
-|||
-|![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/we_chat_logo.jpg)| ![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/we_chat_pay.png)|
-|||
-|||
-|||
-|![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/alipay_logo.png)| ![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/alipay_pay.png)|
--->
+
 <div class="uk-flex-left" uk-grid>
 <div>
-<a href="https://www.paypal.me/digolds"><img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/paypal.png"></a>
+<a href="https://www.paypal.me/digolds"><img src="https://raw.githubusercontent.com/digolds/digolds.top/master/paypal.png"></a>
 </div>
 <div>
 <ul uk-tab>
-    <li><a href="#"><img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/btc_logo.png" style="width:40px"></a></li>
-    <li><a href="#"><img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/we_chat_logo.jpg" style="width:40px"></a></li>
-    <li><a href="#"><img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/alipay_logo.png" style="width:40px"></a></li>
+    <li><a href="#"><img src="https://raw.githubusercontent.com/digolds/digolds.top/master/btc_logo.png" style="width:40px"></a></li>
+    <li><a href="#"><img src="https://raw.githubusercontent.com/digolds/digolds.top/master/we_chat_logo.jpg" style="width:40px"></a></li>
+    <li><a href="#"><img src="https://raw.githubusercontent.com/digolds/digolds.top/master/alipay_logo.png" style="width:40px"></a></li>
 </ul>
 
 <ul class="uk-switcher uk-margin">
     <li>
         <p>BTC Address:</p>
         <p>3P4CrB7cCG7iuSRFGsFGfVfHf214w4upuN</p>
-        <img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/btc.png">
+        <img src="https://raw.githubusercontent.com/digolds/digolds.top/master/btc.png">
     </li>
     <li>
-        <img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/we_chat_pay.png">
+        <img src="https://raw.githubusercontent.com/digolds/digolds.top/master/we_chat_pay.png">
     </li>
     <li>
-        <img src="https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/alipay_pay.png">
+        <img src="https://raw.githubusercontent.com/digolds/digolds.top/master/alipay_pay.png">
     </li>
 </ul>
 </div>
