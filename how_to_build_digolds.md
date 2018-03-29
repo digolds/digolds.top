@@ -2,7 +2,7 @@
 
 ***
 
-![](https://raw.githubusercontent.com/netflixfans/netflixfans.github.io/master/images/how_to_build_digolds.jpg)
+![](https://raw.githubusercontent.com/digolds/digolds.top/master/images/how_to_build_digolds.jpg)
 
 **亲爱的读者，你好！**
 
