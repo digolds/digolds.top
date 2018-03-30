@@ -62,3 +62,37 @@ Linux引领了一波开源浪潮，影响了许多才华横溢的工程师，使
 * mysql
 
 AI与大数据相关技术（正在思考中.....）：
+* module
+
+module is a type in Python.
+
+```
+>>> import os
+>>> type(os)
+<type 'module'>
+```
+
+* import
+
+The ```import``` statement combines two operations; it searches for the named module, then it binds the results of that search to a name in the local scope.
+
+```
+'''
+import module_name
+'''
+import sys
+```
+
+* from <module_name> import <module_name | py_file | class | function | variable>
+
+```
+'''
+from <module_name> import <module_name>
+'''
+from logging import config
+
+'''
+from <module_name> import <function>
+'''
+from logging.config import listen
+```
