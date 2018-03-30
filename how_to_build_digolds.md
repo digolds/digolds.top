@@ -85,7 +85,7 @@ import sys
 
 * from <module_name> import <module_name | py_file | class | function | variable>
 
-```
+```python
 '''
 from <module_name> import <module_name>
 '''
